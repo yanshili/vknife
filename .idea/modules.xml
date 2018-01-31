@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vknife.iml" filepath="$PROJECT_DIR$/vknife.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/vknife.iml" filepath="$PROJECT_DIR$/.idea/vknife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vknife-annotations/vknife-annotations.iml" filepath="$PROJECT_DIR$/vknife-annotations/vknife-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vknife-compiler/vknife-compiler.iml" filepath="$PROJECT_DIR$/vknife-compiler/vknife-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vknife/vknife-vknife.iml" filepath="$PROJECT_DIR$/vknife/vknife-vknife.iml" />
     </modules>
   </component>
 </project>
