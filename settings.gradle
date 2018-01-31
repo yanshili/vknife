@@ -1,0 +1,1 @@
+include ':app', ':vknife', ':vknife-annotations', ':vknife-compiler'
